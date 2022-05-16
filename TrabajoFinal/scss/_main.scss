@@ -1,0 +1,16 @@
+
+.set {background-color: #20120d18;
+    color: $colorBlanco;
+    font-size: large;
+    .form{
+        color:#20120d;
+        background-color:rgba(128, 128, 128, 0.671);
+        
+        button{
+            border: black 2px;
+            border-radius: 5px;
+            margin: 10px;
+            padding: 10px 20px;
+            background-color:$colorprimario;
+            color:black;
+        }}}

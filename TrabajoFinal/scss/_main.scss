@@ -13,4 +13,7 @@
             padding: 10px 20px;
             background-color:$colorprimario;
             color:black;
+            &:hover{
+                background-color:$colorHover;
+            }
         }}}

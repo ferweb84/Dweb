@@ -5,5 +5,7 @@
 }
 .button-primary{
     @extend .button;
-    @include pPrincipales  (rgb(255, 98, 0),false, 100px, auto);
-}
+    @include pPrincipales  (rgb(182, 75, 9),false, 100px, auto);
+    border-radius: 5px;
+    &:hover{background-color: $colorHover;
+}}

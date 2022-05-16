@@ -1,3 +1,17 @@
+.tarjetas {
+  background-color: #20120d18;
+}
+
+.tarjetas .obras_img {
+  background-color: rgba(80, 78, 78, 0.813);
+  border-radius: 15px;
+}
+
+.tarjetas .obras_img .lead {
+  color: #c85915;
+  font-size: 20px;
+}
+
 body {
   background-image: url(../Assets/img/Pportada.jpg);
 }
@@ -32,16 +46,26 @@ span {
   color: black;
 }
 
+.set .form button:hover {
+  background-color: #a1440a;
+}
+
 .button, .button-primary {
   border: 0px;
   padding: 10px 15px;
 }
 
 .button-primary {
-  background-color: #ff6200;
+  background-color: #b64b09;
   color: black;
   width: 100px;
   height: auto;
+  border-radius: 5px;
+  border: 10px black !important;
+}
+
+.button-primary:hover {
+  background-color: #a1440a;
 }
 
 .set {

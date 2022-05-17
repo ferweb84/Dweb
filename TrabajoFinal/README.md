@@ -10,3 +10,8 @@ En carpeta SCSS se desglosa para generar Esquema de Contenido de la Pagina.-
 
 Se crea variables, botones y mixins (los mixins no se reflejan en el trabajo todavia).-
 
+Se realiza reelabora proyecto.-
+
+Se comprimen imagenes y video.-
+
+se agrega Seo.-

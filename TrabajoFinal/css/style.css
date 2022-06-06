@@ -1,64 +1,89 @@
 .tarjetas {
-  background-color: #20120d18; }
-  .tarjetas .obras_img {
-    background-color: rgba(80, 78, 78, 0.813);
-    border-radius: 15px; }
-    .tarjetas .obras_img .lead {
-      color: #c85915;
-      font-size: 20px; }
+  background-color: #20120d18;
+}
+
+.tarjetas .obras_img {
+  background-color: rgba(80, 78, 78, 0.813);
+  border-radius: 15px;
+}
+
+.tarjetas .obras_img .lead {
+  color: #c85915;
+  font-size: 20px;
+}
 
 body {
-  background-image: url(../Assets/img/Pportada.jpg); }
+  background-image: url(../Assets/img/Pportada.jpg);
+}
 
 span {
   font-size: large;
-  color: #c85915 !important; }
+  color: #c85915 !important;
+}
 
 * {
   margin: 0px;
-  padding: 0px; }
+  padding: 0px;
+}
 
 .set {
   background-color: #20120d18;
   color: #ffff;
-  font-size: large; }
-  .set .form {
-    color: #20120d;
-    background-color: rgba(128, 128, 128, 0.671); }
-    .set .form button {
-      border: black 2px;
-      border-radius: 5px;
-      margin: 10px;
-      padding: 10px 20px;
-      background-color: #c85915;
-      color: black; }
-      .set .form button:hover {
-        background-color: #a1440a; }
+  font-size: large;
+}
+
+.set .form {
+  color: #20120d;
+  background-color: rgba(128, 128, 128, 0.671);
+}
+
+.set .form button {
+  border: black 2px;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #c85915;
+  color: black;
+}
+
+.set .form button:hover {
+  background-color: #a1440a;
+}
 
 .button, .button-primary {
   border: 0px;
-  padding: 10px 15px; }
+  padding: 10px 15px;
+}
 
 .button-primary {
   background-color: #b64b09;
   color: black;
   width: 100px;
   height: auto;
-  border-radius: 5px; }
-  .button-primary:hover {
-    background-color: #a1440a; }
+  border-radius: 5px;
+}
+
+.button-primary:hover {
+  background-color: #a1440a;
+}
 
 .set {
   background-color: #20120d3f;
   color: #ffff;
-  font-size: large; }
-  .set .form {
-    color: #20120d;
-    background-color: rgba(128, 128, 128, 0.652); }
-    .set .form button {
-      border: black 2px;
-      border-radius: 5px;
-      margin: 10px;
-      padding: 10px 20px;
-      background-color: #c85915;
-      color: black; }
+  font-size: large;
+}
+
+.set .form {
+  color: #20120d;
+  background-color: rgba(128, 128, 128, 0.652);
+}
+
+.set .form button {
+  border: black 2px;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #c85915;
+  color: black;
+}
+/*# sourceMappingURL=style.css.map */

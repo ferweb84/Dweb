@@ -1,3 +1,5 @@
+Pagina: https://desarrollowebfernandoreyna.000webhostapp.com/index.html
+
 Estudio Pringles es un sito web para un grupo de arquitectos donde se pueden ver sus obras, contactarse, e interactuar de arquitecto a comitente.-
 
 Se creo Carpeta y Archivo SCSS.-
